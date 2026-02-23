@@ -5,7 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class TestSelenium01 {
     public static void main(String[] args) {
         //Selenium 3 -
-        //System.getProperty("webdriver.gecko.driver","/path/geckdriver");
+        //System.getProperty("webdriver.gecko.driver","/path/geckodriver");
 
         FirefoxDriver driver = new FirefoxDriver();
         // new FirefoxDriver(); - This START of the Selenium Session
