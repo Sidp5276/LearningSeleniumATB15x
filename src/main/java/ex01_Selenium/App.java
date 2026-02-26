@@ -1,4 +1,4 @@
-package com.thetestingacademy;
+package ex01_Selenium;
 
 /**
  * Hello world!

@@ -1,7 +1,6 @@
-package com.thetestingacademy;
+package ex01_Selenium;
 
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Selenium02 {
     public static void main(String[] args) {
