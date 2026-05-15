@@ -1,4 +1,4 @@
-package ex01_Selenium;
+package com.thetestingacademy.ex01_Selenium;
 
 public class Selenium03 {
     public static void main(String[] args) {

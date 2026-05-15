@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb7ddbbc-9fe6-45e0-b92b-c7cc18b817c4" name="Changes" comment="Min Max">
+    <list default="true" id="eb7ddbbc-9fe6-45e0-b92b-c7cc18b817c4" name="Changes" comment="TestNG Example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex01_Selenium/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex01_Selenium/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex01_Selenium/Selenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex01_Selenium/Selenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex01_Selenium/Selenium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex01_Selenium/Selenium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex01_Selenium/Selenium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex01_Selenium/Selenium03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex01_Selenium/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex01_Selenium/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/GetVsNavigate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/GetVsNavigate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/TestSelenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/TestSelenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/TestSelenium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/TestSelenium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/TestSelenium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/TestSelenium03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/TestSelenium04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/TestSelenium04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/TestSelenium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/TestSelenium05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/TestSelenium06_MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/TestSelenium06_MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/TestSelenium07_Assertion_TestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/TestSelenium07_Assertion_TestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ex02_Selenium_Basics/TestSelenium08_TestNG_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/ex02_Selenium_Basics/TestSelenium08_TestNG_Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,25 +56,34 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium03.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.GetVsNavigate.executor": "Run",
+    "Application.Selenium01.executor": "Run",
+    "Application.Selenium02.executor": "Run",
+    "Application.Selenium03.executor": "Run",
+    "Application.TestSelenium01.executor": "Run",
+    "Application.TestSelenium02.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.TestSelenium07_Assertion_TestNG.executor": "Run",
+    "TestNG.TestSelenium08_TestNG_Example.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\IdeaProjects\LearningSeleniumATB15x\src\main\java\ex01_Selenium" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="eb7ddbbc-9fe6-45e0-b92b-c7cc18b817c4" name="Changes" comment="" />
@@ -141,12 +164,73 @@
       <option name="project" value="LOCAL" />
       <updated>1772035418700</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated commit">
+      <option name="closed" value="true" />
+      <created>1772122489692</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772122489692</updated>
+    </task>
+    <task id="LOCAL-00011" summary="selenium basics">
+      <option name="closed" value="true" />
+      <created>1772122675818</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772122675818</updated>
+    </task>
+    <task id="LOCAL-00012" summary="selenium basics">
+      <option name="closed" value="true" />
+      <created>1772122692615</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772122692615</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Get vs navigate">
+      <option name="closed" value="true" />
+      <created>1778747519826</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1778747519826</updated>
+    </task>
+    <task id="LOCAL-00014" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1778850288956</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778850288957</updated>
+    </task>
+    <task id="LOCAL-00015" summary="POM">
+      <option name="closed" value="true" />
+      <created>1778850330898</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1778850330899</updated>
+    </task>
+    <task id="LOCAL-00016" summary="TestNG Example">
+      <option name="closed" value="true" />
+      <created>1778850938561</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1778850938563</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init commit" />
     <MESSAGE value="Min Max" />
-    <option name="LAST_COMMIT_MESSAGE" value="Min Max" />
+    <MESSAGE value="updated commit" />
+    <MESSAGE value="selenium basics" />
+    <MESSAGE value="Get vs navigate" />
+    <MESSAGE value="init commit" />
+    <MESSAGE value="POM" />
+    <MESSAGE value="TestNG Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNG Example" />
   </component>
 </project>

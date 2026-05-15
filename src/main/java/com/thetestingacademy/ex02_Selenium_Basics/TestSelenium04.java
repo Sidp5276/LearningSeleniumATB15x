@@ -1,4 +1,4 @@
-package ex02_Selenium_Basics;
+package com.thetestingacademy.ex02_Selenium_Basics;
 
 public class TestSelenium04 {
     public static void main(String[] args) {

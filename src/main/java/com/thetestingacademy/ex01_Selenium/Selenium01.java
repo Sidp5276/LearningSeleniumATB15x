@@ -1,4 +1,4 @@
-package ex01_Selenium;
+package com.thetestingacademy.ex01_Selenium;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
